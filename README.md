@@ -61,12 +61,6 @@ Firebase SDK (Auth & Firestore): (Planned for future use, currently included for
 
 🚀 Setup Instructions
 To run this game locally:
-
-Clone the Repository:
-
-git clone https://github.com/your-username/echoes-of-the-past.git
-cd echoes-of-the-past
-
 Open index.html:
 Simply open the index.html file in your web browser. You don't need a local server for this basic version, as all assets are loaded via CDNs.
 
